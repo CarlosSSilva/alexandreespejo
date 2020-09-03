@@ -22,7 +22,6 @@
 <br>
 
 <table align="center" width="100%">
-  <tr width="100%">
     
   <td width="20%">
     <img src="https://img.icons8.com/ios/50/000000/react-native.png"/> 
@@ -44,11 +43,9 @@
     <img src="https://img.icons8.com/material-outlined/50/000000/html-5.png"/>
   </td>
 
-  
-  
-  </tr>
-  <td width="33%">
+  <td width="20%">
     <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/>
   </td>
+  
 </table>
 
