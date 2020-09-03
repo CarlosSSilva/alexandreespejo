@@ -22,6 +22,7 @@
 <br>
 
 <table align="center" width="100%">
+  <tr align="center">
     
   <td width="20%">
     <img src="https://img.icons8.com/ios/50/000000/react-native.png"/> 
@@ -40,12 +41,33 @@
   </td>
 
   <td width="20%">
-    <img src="https://img.icons8.com/material-outlined/50/000000/html-5.png"/>
+    <img src="https://img.icons8.com/ios/50/000000/typescript.png"/>
   </td>
-
+  </tr>
+  
+  
+  <tr align="center">
   <td width="20%">
     <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/>
   </td>
+  
+  <td width="20%">
+    <img src="https://img.icons8.com/fluent-systems-regular/50/000000/php.png"/>
+  </td>
+  
+  <td width="20%">
+    <img src="https://img.icons8.com/metro/45/000000/sql.png"/>
+  </td>
+  
+  <td width="20%">
+    <img src="https://img.icons8.com/material-outlined/50/000000/html-5.png"/>
+  </td>
+  
+  <td width="20%">
+    <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>
+  </td>
+  
+  </tr>
   
 </table>
 
