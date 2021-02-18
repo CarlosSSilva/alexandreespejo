@@ -8,10 +8,10 @@
   
   
   <a href="https://www.linkedin.com/in/alexandre-espejo-59b5911a9/">
-    <img margin-left="100px" alt="Alexandre's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img margin-left="100px" alt="Alexandre's Linkdein" width="35px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
   </a>
   <a href="https://www.instagram.com/alexandre_espejo/">
-    <img alt="Alexandre's Kaggle" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
+    <img alt="Alexandre's Kaggle" width="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
   </a>
 </p>
   
@@ -25,46 +25,46 @@
   <tr align="center">
     
   <td width="20%">
-    <img src="https://img.icons8.com/ios/50/000000/react-native.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   </td>
 
   <td width="20%">
-    <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   </td>
 
   <td width="20%">
-    <img src="https://img.icons8.com/windows/50/000000/node-js.png"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   </td>
   
   <td width="20%">
-    <img src="https://img.icons8.com/ios-filled/50/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
   </td>
 
   <td width="20%">
-    <img src="https://img.icons8.com/ios/50/000000/typescript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   </td>
   </tr>
   
   
   <tr align="center">
   <td width="20%">
-    <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
   </td>
   
   <td width="20%">
-    <img src="https://img.icons8.com/fluent-systems-regular/50/000000/php.png"/>
+    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
   </td>
   
   <td width="20%">
-    <img src="https://img.icons8.com/metro/45/000000/sql.png"/>
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   </td>
   
   <td width="20%">
-    <img src="https://img.icons8.com/material-outlined/50/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   </td>
   
   <td width="20%">
-    <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   </td>
   
   </tr>
