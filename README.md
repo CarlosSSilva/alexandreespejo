@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">Where can you find me:</h3>
+<h3 align="center">Where you can find me:</h3>
 <p align="center"> <samp>
   
   
